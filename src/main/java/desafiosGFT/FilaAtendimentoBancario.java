@@ -1,3 +1,5 @@
+package desafiosGFT;
+
 import java.util.Scanner;
 
 public class FilaAtendimentoBancario {

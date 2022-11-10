@@ -1,7 +1,6 @@
+import desafiosGFT.CalculaMediaDeIdade;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
-
-import java.util.Scanner;
 
 public class CalclaMediaDeIdadeTest {
 

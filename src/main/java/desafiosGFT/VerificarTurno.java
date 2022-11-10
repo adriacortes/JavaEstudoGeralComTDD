@@ -1,4 +1,5 @@
-import java.util.Locale;
+package desafiosGFT;
+
 import java.util.Scanner;
 
 public class VerificarTurno {

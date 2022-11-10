@@ -1,5 +1,5 @@
-import java.util.Arrays;
-import java.util.List;
+package desafiosGFT;
+
 import java.util.Scanner;
 
 public class CalculaNumeroFeliz {

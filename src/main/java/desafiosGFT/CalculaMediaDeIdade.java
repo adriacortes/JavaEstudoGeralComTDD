@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.Test;
+package desafiosGFT;
 
 import java.util.Scanner;
 
