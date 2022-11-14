@@ -1,4 +1,4 @@
-import desafiosGFT.CalculaMediaDeIdade;
+import desafio.CalculaMediaDeIdade;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 

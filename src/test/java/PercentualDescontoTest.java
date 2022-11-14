@@ -1,4 +1,4 @@
-import desafiosGFT.PercentualDesconto;
+import desafio.PercentualDesconto;
 import org.junit.Assert;
 import org.junit.Test;
 

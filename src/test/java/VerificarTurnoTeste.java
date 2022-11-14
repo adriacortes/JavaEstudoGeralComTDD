@@ -1,4 +1,4 @@
-import desafiosGFT.VerificarTurno;
+import desafio.VerificarTurno;
 import org.junit.Assert;
 import org.junit.Test;
 

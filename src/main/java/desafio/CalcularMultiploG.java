@@ -1,4 +1,4 @@
-package JavaSintaxeBasica;
+package desafio;
 
 import java.util.Scanner;
 

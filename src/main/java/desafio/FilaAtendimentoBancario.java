@@ -1,4 +1,4 @@
-package desafiosGFT;
+package desafio;
 
 import java.util.Scanner;
 

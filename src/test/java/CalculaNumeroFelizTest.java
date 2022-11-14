@@ -1,4 +1,4 @@
-import desafiosGFT.CalculaNumeroFeliz;
+import desafio.CalculaNumeroFeliz;
 import org.junit.Test;
 import org.junit.internal.runners.JUnit4ClassRunner;
 import org.junit.runner.RunWith;

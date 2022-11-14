@@ -1,6 +1,6 @@
 package JavaSintaxeBasica;
 
-public class Main {
+public class TiposPrimitivos {
     public static void main(String[] args) {
      /*Tipos primitivos-não são objetos.
      * int
