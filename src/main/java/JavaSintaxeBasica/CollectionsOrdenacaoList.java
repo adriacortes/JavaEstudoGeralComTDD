@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class OrdenacaoList {
+public class CollectionsOrdenacaoList {
     public static void main(String[] args) {
 
         List<Gato> meusGatos = new ArrayList<>(){{

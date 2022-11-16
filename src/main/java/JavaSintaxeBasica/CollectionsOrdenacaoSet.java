@@ -2,7 +2,7 @@ package JavaSintaxeBasica;
 
 import java.util.*;
 
-public class OrdenacaoSet {
+public class CollectionsOrdenacaoSet {
     public static void main(String[] args) {
 
         Set<Serie> minhasSeries = new HashSet<>(){{
