@@ -2,7 +2,7 @@ package JavaSintaxeBasica;
 
 import java.util.*;
 
-public class InterfaceListPrincipaisMetodos {
+public class ColletionList {
     /* java.util.list
     * Elementos duplicados e garante a ordem de inserção
     * Interface List : ArrayList / Vector / LinkedList

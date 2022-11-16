@@ -1,6 +1,5 @@
 package JavaSintaxeBasica;
 
-import java.text.CollationElementIterator;
 import java.util.*;
 
 /**
@@ -27,7 +26,7 @@ import java.util.*;
  *
  */
 
-public class InterfaceSingularesSetPrincipaisMetodos {
+public class ColletionSet {
     public static void main(String[] args) {
         //Set<Double> notas = new HasSet<>();
         Set<Double> notas = new HashSet<>(Arrays.asList(7d,8.5d,9.3d,5d,7d,0d,3.d));

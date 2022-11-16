@@ -1,4 +1,4 @@
-package JavaSintaxeBasica;
+package desafio;
 
         /*O desafio consiste em um número inteiro n,
         onde será necessário calcular a diferença

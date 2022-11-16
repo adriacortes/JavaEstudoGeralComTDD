@@ -1,4 +1,4 @@
-import JavaSintaxeBasica.DiferancaEntreDigitos;
+import desafio.DiferancaEntreDigitos;
 import org.junit.Assert;
 import org.junit.Test;
 

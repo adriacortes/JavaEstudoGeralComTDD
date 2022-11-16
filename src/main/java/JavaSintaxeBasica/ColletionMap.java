@@ -1,5 +1,5 @@
 package JavaSintaxeBasica;
 /*
 * */
-public class InterfaceMap {
+public class ColletionMap {
 }
