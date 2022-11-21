@@ -27,7 +27,7 @@ public class OrdenacaoMap {
             System.out.println(livro.getKey() + "-" + livro.getValue().getNome());
         }
 
-        System.out.println("#Ordem alfabetica dos autores: ");//Pela chave do MAP
+        System.out.println("#Ordem alfabetica dos autores: ");//TreeMap por defautl ordena pela chave
         Map<String, Livro> meusLivros2 = new TreeMap<>(meusLivros1);
         for (Map.Entry<String, Livro> livro : meusLivros2.entrySet()) {
             System.out.println(livro.getKey() + "-" + livro.getValue().getNome());
