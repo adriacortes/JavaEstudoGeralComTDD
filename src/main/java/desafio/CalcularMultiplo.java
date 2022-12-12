@@ -10,13 +10,12 @@ public class CalcularMultiplo {
         int numero=5;
         int menorMultiplo = 0;
 
-      //  numero= entrada.nextInt();
+
         if (numero % 2 == 0) {
             menorMultiplo = numero;
         } else {
             menorMultiplo = numero * 2;
         }
-
         System.out.println("O resultado eh:"+menorMultiplo);
 
 
